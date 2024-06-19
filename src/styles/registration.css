@@ -1,0 +1,42 @@
+.registration-container {
+    background-color: #e9e7e7;
+    padding: 50px 0;
+}
+
+.registration-box {
+    background-color: white;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.registration-box h2 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #ff4500;
+}
+
+.registration-box p {
+    margin-bottom: 20px;
+}
+
+.btn-custom {
+    background: #df2500;
+    border-radius: 15px;
+    font-size: 14px;
+    line-height: 16px;
+    padding: 6px 20px;
+    min-width: 150px;
+    text-align: center;
+    font-weight: 700;
+    color: white;
+    border: none;
+}
+
+.btn-custom:hover {
+    background: #c32100;
+}
+
+.bi-eye, .bi-eye-slash {
+    cursor: pointer;
+}
